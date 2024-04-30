@@ -1,0 +1,7 @@
+https://pythonnumericalmethods.studentorg.berkeley.edu/notebooks/Index.html
+https://computational-discovery-on-jupyter.github.io/Computational-Discovery-on-Jupyter/index.html
+https://github.com/profConradi
+
+'Petit guide de calcul différentiel à l'usage de la license et de l'agrégation'
+'Introduction à l'analyse numérique matricielle et à l'optimisation'
+'Analyse numérique et équations différentielles'
