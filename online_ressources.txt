@@ -16,3 +16,29 @@ https://www.ceremade.dauphine.fr/~bey/enseignement/Enseignement/All_enseignement
 Python & Neo4j
 https://github.com/neo4j-graph-analytics/graph-algorithms-notebooks/tree/master/notebooks
 
+
+Python & algos
+https://www.bigocheatsheet.com/
+
+
+
+1) Résolution d'équation
+de la méthode du point fixe jusqu'à quasi Newton
+https://fa.bianp.net/teaching/2018/COMP-652/scipy.optimize.html
+
+
+2) Algèbre linéaire
+Résolution directe et itérative de systèmes linéaires. Problèmes de valeurs propres.
+Cas concret SVD&PCA
+https://jonathan-hui.medium.com/machine-learning-singular-value-decomposition-svd-principal-component-analysis-pca-1d45e885e491
+
+3) Optimization (descente de gradient)
+https://github.com/fastai/fastbook/blob/master/04_mnist_basics.ipynb
+https://www.kaggle.com/code/jhoward/linear-model-and-neural-net-from-scratch
+https://www.kaggle.com/code/jhoward/why-you-should-use-a-framework
+
+https://fa.bianp.net/teaching/2018/COMP-652/
+
+
+4) ML techniques (random forest & gradient boosted trees)
+https://www.kaggle.com/code/jhoward/how-random-forests-really-work/
