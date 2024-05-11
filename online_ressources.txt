@@ -3,8 +3,16 @@ https://computational-discovery-on-jupyter.github.io/Computational-Discovery-on-
 https://github.com/profConradi
 https://github.com/inducer/numerics-notes/tree/main/demos/
 https://www.ceremade.dauphine.fr/~bey/enseignement/Enseignement/All_enseignement_dauphine/Module_analyse_numerique/
+https://www.ceremade.dauphine.fr/~bey/enseignement/Enseignement/All_enseignement_dauphine/Module_analyse_numerique/livre%20analyse%20num%c3%a9rique/
+
 
 
 'Petit guide de calcul différentiel à l'usage de la license et de l'agrégation'
 'Introduction à l'analyse numérique matricielle et à l'optimisation'
 'Analyse numérique et équations différentielles'
+
+
+
+Python & Neo4j
+https://github.com/neo4j-graph-analytics/graph-algorithms-notebooks/tree/master/notebooks
+
