@@ -41,4 +41,7 @@ https://fa.bianp.net/teaching/2018/COMP-652/
 
 
 4) ML techniques (random forest & gradient boosted trees)
+https://xgboost.readthedocs.io/en/stable/tutorials/model.html
 https://www.kaggle.com/code/jhoward/how-random-forests-really-work/
+https://www.kaggle.com/code/prashant111/lightgbm-classifier-in-python
+
