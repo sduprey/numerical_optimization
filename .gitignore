@@ -5,6 +5,7 @@ setup.cfg
 cryptotoolbox/crypotoolbox.egg-info/*
 data/*
 .idea/*
+.ipynb_checkpoints/*
 *.log
 *.xlsx
 *.pkl
