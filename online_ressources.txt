@@ -20,6 +20,7 @@ https://github.com/neo4j-graph-analytics/graph-algorithms-notebooks/tree/master/
 Python & algos
 https://www.bigocheatsheet.com/
 https://notebook.community/pszjmb1/fun_with_SNA/NetworkX%20Tutorial
+https://allendowney.github.io/DSIRP/
 
 
 
