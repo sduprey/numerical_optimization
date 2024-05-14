@@ -23,10 +23,11 @@ https://notebook.community/pszjmb1/fun_with_SNA/NetworkX%20Tutorial
 
 
 
+https://pythonnumericalmethods.studentorg.berkeley.edu/notebooks/Index.html
+http://www.cmap.polytechnique.fr/~beniamin.bogosel/OptimizationBachelor/
+
 1) Résolution d'équation
 de la méthode du point fixe jusqu'à quasi Newton
-https://fa.bianp.net/teaching/2018/COMP-652/scipy.optimize.html
-http://www.cmap.polytechnique.fr/~beniamin.bogosel/OptimizationBachelor/
 https://indrag49.github.io/Numerical-Optimization/quasi-newton-methods.html
 
 2) Algèbre linéaire
