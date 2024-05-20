@@ -39,6 +39,7 @@ https://lemesurierb.people.cofc.edu/elementary-numerical-analysis-python/noteboo
 Résolution directe et itérative de systèmes linéaires. Problèmes de valeurs propres.
 Cas concret SVD&PCA
 https://jonathan-hui.medium.com/machine-learning-singular-value-decomposition-svd-principal-component-analysis-pca-1d45e885e491
+https://github.com/fastai/course22p2/blob/master/nbs/12_accel_sgd.ipynb
 
 3) Optimization (descente de gradient)
 https://github.com/fastai/fastbook/blob/master/04_mnist_basics.ipynb
