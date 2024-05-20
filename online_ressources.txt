@@ -28,10 +28,12 @@ https://github.com/TirendazAcademy/PANDAS-TUTORIAL
 
 https://pythonnumericalmethods.studentorg.berkeley.edu/notebooks/Index.html
 http://www.cmap.polytechnique.fr/~beniamin.bogosel/OptimizationBachelor/
+https://lemesurierb.people.cofc.edu/elementary-numerical-analysis-python/notebooks/newtons-method-python.html
 
 1) Résolution d'équation
 de la méthode du point fixe jusqu'à quasi Newton
 https://indrag49.github.io/Numerical-Optimization/quasi-newton-methods.html
+https://lemesurierb.people.cofc.edu/elementary-numerical-analysis-python/notebooks/newtons-method-python.html
 
 2) Algèbre linéaire
 Résolution directe et itérative de systèmes linéaires. Problèmes de valeurs propres.
