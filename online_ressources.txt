@@ -25,10 +25,11 @@ https://github.com/TirendazAcademy/PANDAS-TUTORIAL
 
 
 
-
+Numerical Optimization
 https://pythonnumericalmethods.studentorg.berkeley.edu/notebooks/Index.html
 http://www.cmap.polytechnique.fr/~beniamin.bogosel/OptimizationBachelor/
 https://lemesurierb.people.cofc.edu/elementary-numerical-analysis-python/notebooks/newtons-method-python.html
+google ML certification applets
 
 1) Résolution d'équation
 de la méthode du point fixe jusqu'à quasi Newton
