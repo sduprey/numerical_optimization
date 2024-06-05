@@ -31,6 +31,7 @@ http://www.cmap.polytechnique.fr/~beniamin.bogosel/OptimizationBachelor/
 https://lemesurierb.people.cofc.edu/elementary-numerical-analysis-python/notebooks/newtons-method-python.html
 https://developers.google.com/machine-learning/crash-course/ml-intro
 https://explained.ai/matrix-calculus/
+https://nasheqlbrm.github.io/blog/posts/2021-11-13-backward-pass.html
 
 1) Résolution d'équation
 de la méthode du point fixe jusqu'à quasi Newton
